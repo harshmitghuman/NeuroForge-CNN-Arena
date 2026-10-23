@@ -81,10 +81,6 @@ Open http://localhost:3000 in your browser.
 
 This version includes modifications to the CNN model-building and training pipeline, including support for configurable convolutional blocks and a reduced dataset subset to make local experimentation more manageable.
 
-## Acknowledgements
-
-This project builds upon the original [PokeCNN project by Shikhar1808](https://github.com/Shikhar1808/PokeCNN). The original project is acknowledged as the starting point for further modifications and experimentation.
-
 ## Author
 
 **Harshmit Ghuman**
