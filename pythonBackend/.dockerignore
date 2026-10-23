@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+venv/
+.env/
+.venv/
+
+# Cache
+*.cache
+*.egg-info
+.cache/
+build/
+dist/
+
+# Git / IDE
+.git/
+.gitignore
+.idea/
+.vscode/
+
+# Datasets
+datasets/
+data/
+*.csv
+*.zip
+
+# Docker / OS
+Dockerfile
+*.db
+*.sqlite3
+.DS_Store
